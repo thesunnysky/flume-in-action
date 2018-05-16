@@ -1,7 +1,0 @@
-flume-in-action.iml
-*/.idea/
-*/*.iml
-*.xml
-!*/pom.xml
-.idea/*
-
